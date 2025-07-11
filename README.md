@@ -33,7 +33,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## FIRST FORK THE REPOSITORY
 ` CLICK THE FORK BUTTON BELOW `
 
-<a href="https://github.com/EliteProTech/ELITE-PRO-V1/fork"><img title="ELITE-PRO-V1" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/EliteProTech/ELITE-PRO-V1/fork"><img title="BUGS-V1" src="https://img.shields.io/badge/FORK-BOT%20REPO-h?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ## GET SESSION ID BELOW
 > **FROM PAIRING WEB**
